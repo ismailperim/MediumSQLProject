@@ -67,4 +67,7 @@
   <ItemGroup>
     <RefactorLog Include="MediumSQLProject.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="gitlab-ci.yml" />
+  </ItemGroup>
 </Project>
